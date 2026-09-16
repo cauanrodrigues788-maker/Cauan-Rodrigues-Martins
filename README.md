@@ -1,4 +1,4 @@
-Estudante de **ADS** 
+Estudante de **ADS** (Analise e Desenvolvimento de Sistemas)
 
 **Meu foco** Buscando atuar como **Cyber Segurança**
 
@@ -24,4 +24,4 @@ Tecnico Em Telecomunicações
 ## Projeto em Destaque
  | projeto | Descrição| Stack Principal |
  | --- | --- | --- |
- | {Nome do Projeto}(https://colab.research.google.com/drive/19KPSzw1MhRvla_6Iq3mnE9EhB4VrmAfK?usp=sharing)
+ | {Calculadora em Python}(https://colab.research.google.com/drive/19KPSzw1MhRvla_6Iq3mnE9EhB4VrmAfK?usp=sharing)|Uma calculadora feita em Python|Python
