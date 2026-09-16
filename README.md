@@ -15,13 +15,14 @@ Tecnico Em Telecomunicações
 
 ## Meu Roadmap
 
-- {} Mapear minha carreira com um canvas
-- {x} Criar meu README de perfil
-- {} Atualizar o linkedin 
-- {} Subir 2 projetos completos com documentação no GitHub
-- {} Melhorar  meu nivel de inglés
+- Criar meu README de perfil
+- Atualizar o linkedin 
+- Melhorar  meu nivel de inglés
 
 ## Projeto em Destaque
  | projeto | Descrição| Stack Principal |
  | --- | --- | --- |
  | {Calculadora em Python}(https://colab.research.google.com/drive/19KPSzw1MhRvla_6Iq3mnE9EhB4VrmAfK?usp=sharing)|Uma calculadora feita em Python|Python
+
+## Como falar comigo
+- cauan.rodrigues788@gmail.com
